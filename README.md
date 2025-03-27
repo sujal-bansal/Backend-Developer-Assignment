@@ -43,7 +43,6 @@ Create a `.env` file in the root directory with the following variables:
 PORT=5000
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
-NODE_ENV=development
 ```
 
 ### 4. Run the Application
